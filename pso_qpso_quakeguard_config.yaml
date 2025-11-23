@@ -1,0 +1,6 @@
+best_hyperparameters:
+  dropout: 0.1
+  filters: 64
+  kernel_size: 5
+  lr: 0.001
+  lstm_units: 64
