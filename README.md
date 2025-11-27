@@ -1,5 +1,5 @@
 # ================================================================
-# 🌫️ Air Pollution Forecasting — Hybrid Deep Learning Model
+# 🌫️ Air Pollution Forecasting — Hybrid Deep Learning Model.
 # Author: Annan Sadr (Probox / NIAT Club)
 # ================================================================
 
